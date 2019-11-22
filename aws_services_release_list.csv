@@ -1,0 +1,172 @@
+No.,Category,Service,Release Date,Year,label
+1,Analytics,Amazon Athena,Released November 30,2016,1
+2,Analytics,Amazon CloudSearch,Released April 11,2012,1
+3,Analytics,Amazon Elasticsearch Service,Released October 1,2015,1
+4,Analytics,Amazon EMR,Released April ,2009,1
+5,Analytics,Amazon Kinesis,Released December 16,2013,1
+6,Analytics,Amazon Redshift,Released February 14,2013,1
+7,Analytics,Amazon Quicksight,Released November 15,2016,1
+8,Analytics,AWS Data Pipeline,Released December,2012,1
+9,Analytics,AWS Glue,Released August 14,2017,1
+10,Analytics,Amazon Managed Streaming for Kafka,Announced November 29,2018,1
+11,Analytics,AWS Lake Formation,Announced November 28,2018,1
+12,Application Integration,Amazon EventBridge,Released July 11,2019,2
+13,Application Integration,AWS Step Functions,Released December 1,2016,2
+14,Application Integration,Amazon Simple Queue Service (SQS),Released November 5,2012,2
+15,Application Integration,Amazon Simple Notification Service (SNS),Released April 7,2010,2
+16,Application Integration,Amazon MQ,Released November 28,2017,2
+17,Application Integration,Amazon AppSync,Released April 13,2018,2
+18,AR & VR,Amazon Sumerian,Released May 15,2018,3
+19,AWS Cost Management,AWS Cost Explorer,Released April 8,2014,4
+20,AWS Cost Management,AWS Budgets,Released June 29,2015,4
+21,AWS Cost Management,Reserved Instance Reporting,Released December,2016,4
+22,AWS Cost Management,AWS Cost and Usage Report,Release December 16,2015,4
+23,Blockchain,Amazon Managed Blockchain,Released April 13,2019,5
+24,Blockchain,Amazon Quantum Ledger Database (QLDB),Released September 10,2019,5
+25,Business Applications,Alexa for Business,Released November 30,2017,6
+26,Business Applications,Amazon Chime,Released February 13,2017,6
+27,Business Applications,Amazon WorkMail,Released January 4,2016,6
+28,Customer Engagement,Amazon Connect,Released March 28,2017,7
+29,Customer Engagement,Amazon Pinpoint,Released December 1,2016,7
+30,Customer Engagement,Amazon Simple Email Service (SES),Released June 25,2011,7
+31,Compute,Amazon EC2 ,Released August,2006,8
+32,Compute,Amazon EC2 Auto Scaling,Released May 17,2009,8
+33,Compute,Amazon Elastic Container Service,Released April 9,2015,8
+34,Compute,Amazon Elastic Container Service for Kubernetes,Released June 5,2018,8
+35,Compute,Amazon Elastic Container Registry,Released December 21,2015,8
+36,Compute,Amazon Lightsail,Released November 30,2016,8
+37,Compute,AWS Batch,Released January 5,2017,8
+38,Compute,AWS Elastic Beanstalk,Released January 19,2011,8
+39,Compute,AWS Fargate,Released November 29,2017,8
+40,Compute,AWS Lambda, Released April 15,2015,8
+41,Compute,AWS Serverless Application Repository,Released February 21,2018,8
+42,Compute,VMware Cloud on AWS,Released August 28,2017,8
+43,Compute,AWS Outposts,In Preview,2019,8
+44,End User Computing,Amazon WorkSpaces,Released March 26,2014,9
+45,End User Computing,Amazon AppStream,Released December 1,2016,9
+46,End User Computing,Amazon WorkDocs,Released July 10,2014,9
+47,End User Computing,Amazon WorkLink,Released January 23,2019,9
+48,Game Tech,Amazon GameLift,Released February 9,2016,10
+49,Game Tech,Amazon Lumberyard,Released February 9,2016,10
+50,Database,Amazon Aurora,Released July 27,2015,11
+51,Database,Amazon RDS,Released October 22,2009,11
+52,Database,Amazon DynamoDB,Released January 18,2012,11
+53,Database,Amazon ElastiCache,Released August 22,2011,11
+54,Database,Amazon Neptune,Released May 30,2018,11
+55,Database,AWS Database Migration Service,Released Mar 15,2016,11
+56,Database,Amazon Timestream,Preview announced on Nov 28,2018,11
+57,Database,Amazon DocumentDB (with MongoDB compatibility),Released January 9,2019,11
+58,Developer Tools,AWS Cloud Development Kit,Generally Available July 11,2019,12
+59,Developer Tools,AWS CodeStar,Released April 19,2017,12
+60,Developer Tools,AWS CodeCommit,Released July 9,2015,12
+61,Developer Tools,AWS CodeBuild,Released December 1,2016,12
+62,Developer Tools,AWS CodeDeploy,Released November 12,2014,12
+63,Developer Tools,AWS CodePipeline,Released July 9,2015,12
+64,Developer Tools,AWS Cloud9,Released November 30,2017,12
+65,Developer Tools,AWS X-Ray,Released April 19,2017,12
+66,Developer Tools,AWS Command Line Interface,Released September 3,2013,12
+67,Internet of Things,AWS IoT Core,Released December 18,2015,13
+68,Internet of Things,Amazon FreeRTOS,Released November 29,2017,13
+69,Internet of Things,AWS Greengrass,Released June 7,2017,13
+70,Internet of Things,AWS IoT 1-Click,Released May 16,2018,13
+71,Internet of Things,AWS IoT Analytics,Released April 24,2018,13
+72,Internet of Things,AWS IoT Button,Released May,2016,13
+73,Internet of Things,AWS IoT Device Defender,Released August 2,2018,13
+74,Internet of Things,AWS IoT Device Management,Released November 29,2017,13
+75,Internet of Things,AWS IoT Events,In Preview,2018,13
+76,Internet of Things,AWS IoT SiteWise,In Preview,2018,13
+77,Internet of Things,AWS Partner Device Catalog,Released November,2018,13
+78,Internet of Things,AWS IoT Things Graph,Released May 30,2019,13
+79,Machine Learning,Amazon SageMaker,Released November 29,2017,14
+80,Machine Learning,Amazon Comprehend,Released November 29,2017,14
+81,Machine Learning,Amazon Lex,Released April 19,2017,14
+82,Machine Learning,Amazon Polly,Released November 30,2016,14
+83,Machine Learning,Amazon Rekognition,Released November 30,2016,14
+84,Machine Learning,Amazon Translate,Released April 4,2018,14
+85,Machine Learning,Amazon Transcribe,Released April 4,2018,14
+86,Machine Learning,AWS DeepLens,Released June 13,2018,14
+87,Machine Learning,AWS Deep Learning AMIs,Released,2017,14
+88,Machine Learning,Apache MXNet on AWS,Released,2017,14
+89,Machine Learning,TensorFlow on AWS,Released ,2017,14
+90,Machine Learning,Amazon Personalize,In Preview,2019,14
+91,Machine Learning,Amazon Forecast,In Preview,2019,14
+92,Machine Learning,Amazon Inferentia,Coming late 2019,2019,14
+93,Machine Learning,Amazon Textract,In Preview,2019,14
+94,Machine Learning,Amazon Elastic Inference,Released November 28,2018,14
+95,Machine Learning,Amazon SageMaker Ground Truth,Released November 28,2018,14
+96,Machine Learning,AWS DeepRacer,In Preview,2019,14
+97,Machine Learning,AWS Deep Learning Containers, Released March 27,2019,14
+98,Management & Governance,AWS Chatbot,In beta as of July 24,2019,15
+99,Management & Governance,Amazon CloudWatch,Released May,2009,15
+100,Management & Governance,AWS Auto Scaling,Released January 16,2018,15
+101,Management & Governance,AWS CloudFormation,Released February 25,2011,15
+102,Management & Governance,AWS CloudTrail,Released November 13,2013,15
+103,Management & Governance,AWS Config,Released November 12,2014,15
+104,Management & Governance,AWS OpsWorks,Released February 18,2013,15
+105,Management & Governance,AWS Service Catalog,Released July 9,2015,15
+106,Management & Governance,AWS Systems Manager,Released November 29,2017,15
+107,Management & Governance,AWS Trusted Advisor,Released July 31,2014,15
+108,Management & Governance,AWS Personal Health Dashboard,Released December 1,2016,15
+109,Management & Governance,AWS Control Tower,Released November 28,2018,15
+110,Management & Governance,AWS License Manager,Released November 28,2018,15
+111,Management & Governance,AWS Well-Architected Tool,Released November 29,2018,15
+112,Management & Governance,AWS Console Mobile Application,Released November 15,2018,15
+113,Management & Governance,AWS Management Console,Released January 8,2009,15
+114,Management & Governance,AWS Managed Services,Released December 12,2016,15
+115,Management & Governance,AWS Organizations,Released February 27,2017,15
+116,Media Services,AWS Elemental Appliances & Software,Announced May,2019,16
+117,Media Services,Amazon Elastic Transcoder,Released January 28,2013,16
+118,Media Services,Amazon Kinesis Video Streams,Released November 29,2017,16
+119,Media Services,AWS Elemental MediaConvert,Released November 26,2017,16
+120,Media Services,AWS Elemental MediaLive,Released November 26,2017,16
+121,Media Services,AWS Elemental MediaPackage,Released November 26,2017,16
+122,Media Services,AWS Elemental MediaStore,Released November 26,2017,16
+123,Media Services,AWS Elemental MediaTailor,Released November 26,2017,16
+124,Media Services,AWS Elemental MediaConnect,Released November 27,2018,16
+125,Migration & Transfer,CloudEndure Migration,Released July 11,2019,17
+126,Migration & Transfer,AWS Migration Hub,Released August 14,2017,17
+127,Migration & Transfer,AWS Server Migration Service,Released October 24,2016,17
+128,Migration & Transfer,AWS Snowball Family,First Version AWS Snowball Released 2009,2009,17
+129,Migration & Transfer,AWS DataSync ,Released November 26,2018,17
+130,Migration & Transfer,AWS Transfer for SFTP,Released November 26,2018,17
+131,Mobile,AWS Amplify,Released November 21,2017,18
+132,Mobile,Amazon API Gateway,Released July 9,2015,18
+133,Mobile,AWS Device Farm,Released July,2015,18
+134,Networking & Content Delivery,Amazon VPC,Released August 25,2009,19
+135,Networking & Content Delivery,AWS PrivateLink,Released November 8,2017,19
+136,Networking & Content Delivery,Amazon CloudFront,Released November,2008,19
+137,Networking & Content Delivery,Amazon Route 53,Released December 05,2010,19
+138,Networking & Content Delivery,AWS Direct Connect,Released August 3,2011,19
+139,Networking & Content Delivery,AWS Cloud Map,Released November 28,2018,19
+140,Networking & Content Delivery,AWS App Mesh,Released November 28,2018,19
+141,Networking & Content Delivery,AWS Transit Gateway,Released November 26,2018,19
+142,Networking & Content Delivery,AWS Global Accelerator,Released November 26,2018,19
+143,Networking & Content Delivery,Elastic Load Balancing,Released May,2009,19
+144,Robotics,AWS RoboMaker,Released November 26,2018,20
+145,Satellite,AWS Ground Station,In Preview,2019,21
+146,"Security, Identity & Compliance",AWS Resource Access Manager (RAM),Released November 21,2018,22
+147,"Security, Identity & Compliance",AWS Identity & Access Management,Released May 3,2011,22
+148,"Security, Identity & Compliance",Amazon Cloud Directory,Released January 26,2017,22
+149,"Security, Identity & Compliance",AWS Single Sign-On,Released December 7,2017,22
+150,"Security, Identity & Compliance",Amazon GuardDuty,Released November 28,2017,22
+151,"Security, Identity & Compliance",Amazon Inspector,Released April 20,2016,22
+152,"Security, Identity & Compliance",Amazon Macie,Released August 14,2017,22
+153,"Security, Identity & Compliance",AWS Certificate Manager,Released January 21,2016,22
+154,"Security, Identity & Compliance",AWS CloudHSM,Released March 26,2013,22
+155,"Security, Identity & Compliance",AWS Directory Service,Released October 21,2014,22
+156,"Security, Identity & Compliance",AWS Firewall Manager,Released April 4,2018,22
+157,"Security, Identity & Compliance",AWS Key Management Service,Released November 12,2014,22
+158,"Security, Identity & Compliance",AWS Secrets Manager,Released April 4,2018,22
+159,"Security, Identity & Compliance",AWS Shield,Released December 1,2016,22
+160,"Security, Identity & Compliance",AWS WAF,Released October 6,2015,22
+161,"Security, Identity & Compliance",AWS Artifact,Released December 7,2016,22
+162,"Security, Identity & Compliance",AWS Security Hub,Released January 24,2019,22
+163,Storage,Amazon Simple Storage Service (S3),Released March 19,2006,23
+164,Storage,Amazon Elastic Block Store (EBS),Announced August 20,2008,23
+165,Storage,Amazon Elastic File System (EFS),Released June 29,2016,23
+166,Storage,Amazon S3 Glacier,Released August 21,2012,23
+167,Storage,AWS Storage Gateway,Released January 24,2012,23
+168,Storage,AWS Snow Family,First Version AWS Snowball,2009,23
+169,Storage,Amazon FSx for Lustre,Released November 28,2018,23
+170,Storage,Amazon FSx for Windows File Server,Released November 28,2018,23
+171,Storage,AWS Backup,Released January 16,2019,23
